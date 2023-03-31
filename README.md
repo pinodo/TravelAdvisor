@@ -3,10 +3,6 @@
 <h1 align="center">Travel Advisor</h1>
 </div>
 
-<p align="center">
-Reference - https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=20421s
-</p>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
